@@ -1,0 +1,4 @@
+Bhaagi
+2D 
+Price 500
+Seats Available 290

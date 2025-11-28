@@ -1,0 +1,4 @@
+Badhai Ho 
+2D 
+Price 700
+Seats Available 500
